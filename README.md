@@ -1,9 +1,7 @@
 #  MATLAB Image Processing GUI
 
 ##  Description
-This project is a MATLAB-based graphical user interface (GUI) for image processing.  
-It allows users to load images and apply various processing operations interactively.
-
+Designed and implemented an interactive MATLAB-based image processing system with GUI, integrating filtering, histogram analysis, and computer vision techniques.
 ---
 
 ##  Features
@@ -30,13 +28,13 @@ It allows users to load images and apply various processing operations interacti
 ![Interface](images/interface.png)
 ---
 
-## 🛠️ Technologies
+##  Technologies
 - MATLAB
 - Image Processing Toolbox
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 1. Open MATLAB
 2. Open App Designer
 3. Run `App1.mlapp`
@@ -44,6 +42,12 @@ It allows users to load images and apply various processing operations interacti
 5. Test different features
 
 ---
+## ⭐ Project Highlights
 
-## 👨‍💻 Author
+- Developed a complete MATLAB GUI for real-time image processing
+- Implemented multiple image processing algorithms (filtering, histogram, transformations)
+- Designed an intuitive user interface for interactive analysis
+- Structured project for modular and scalable development
+
+##  Author
 Mohamed Kammoun
