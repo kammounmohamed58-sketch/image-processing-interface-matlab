@@ -19,15 +19,15 @@ It allows users to load images and apply various processing operations interacti
 
 ## Interface Preview
 
-### Main Interface
-![Interface](images/interface.png)
+### Empty State
+![Empty](images/empty-interface.png)
 
 ### File Selection
 ![File](images/file-selection.png)
 
-### Empty State
-![Empty](images/empty-interface.png)
 
+### Main Interface
+![Interface](images/interface.png)
 ---
 
 ## 🛠️ Technologies
